@@ -21,4 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=illumou&show_icons=true&locale=en&layout=compact" alt="illumou" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=illumou&show_icons=true&locale=en" alt="illumou" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=illumou&show_icons=true&locale=de&theme=transparent" alt="illumou" /></p>
