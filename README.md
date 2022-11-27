@@ -3,19 +3,6 @@
 ![oh5](https://user-images.githubusercontent.com/82582947/204136324-6e19a266-bb0c-4d46-9afa-3758994ab79a.png)
 
 
-### Hi there
-- I'm currently working on a GTA5-RP Project
-- Learning everything
-
-<h1 align="center">Hi 👋, I'm Robin</h1>
-<h3 align="center">gf</h3>
-
-- 🔭 I’m currently working on **g**
-
-- 👯 I’m looking to collaborate on **g**
-
-- 🤝 I’m looking for help with **g**
-
 <h3 align="left">Tools:</h3>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 <h3 align="left">Languages:</h3>
