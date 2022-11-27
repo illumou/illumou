@@ -4,9 +4,6 @@
 - I'm currently working on a GTA5-RP Project
 - Learning everything
 
-<img align="left" alt="" src="https://github-readme-stats.vercel.app/api?username=illumou&show_icons=t![img.png](img.png)rue&hide_border=true&theme=transparent" />
-
-
 <h1 align="center">Hi 👋, I'm Robin</h1>
 <h3 align="center">gf</h3>
 
